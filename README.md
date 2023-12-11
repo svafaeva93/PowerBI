@@ -1,0 +1,2 @@
+# PowerBI
+Query Folding Challenges
